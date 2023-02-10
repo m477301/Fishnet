@@ -5,16 +5,12 @@ Overall Project
  - Development of Shark Model once identified using morphable models
 
 CURRENT TASK:
-    - Setup Virtual Environment with Tensorflow
-    - Setup Jupyter Notebook
-    - Setup Jupyter Notebook for Installation
     - Setup Jupyter Notebook for Image Collection
     - Collect Images of Sharks for 20 species
     - Setup Jupyter Notebook for Training and Shark Detection
     - Train Shark Model
     - Setup Jupyter Notebook for Creating Morphable Models
   
-
 TODO:
  - Develop it for many species
  - Build Morphable Model
@@ -24,3 +20,15 @@ TODO:
 Ideas:
 
 Use Mask R-CNN to trace shark in image
+TARGET: 53,345 Images of Sharks 
+        219 Species of Shark
+        47 species pertaining to 26 genera
+
+        DATA GATHERING: Images sourced from:
+        - Instagram with 91% accuracy (Data Mining)
+        - BRUVs
+
+DONE
+- Setup Virtual Environment with Tenserflow
+- Setup Jupyter Notebook
+- Setup Jupyter Notebook for Installation
