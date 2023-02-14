@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tiger</folder>
+	<filename>tiger.00000003.jpg</filename>
+	<path>C:\Users\matte\Documents\TCDCollege\4-FourthYear\CSU44099-FinalYearProject\Fishnet\Shark-Species-Identifier\Tensorflow\workspace\images\collectedimages\tiger\tiger.00000003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1096</width>
+		<height>616</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>246</ymin>
+			<xmax>1015</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

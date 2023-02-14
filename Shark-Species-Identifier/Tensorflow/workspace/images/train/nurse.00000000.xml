@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nurse</folder>
+	<filename>nurse.00000000.jpg</filename>
+	<path>C:\Users\matte\Documents\TCDCollege\4-FourthYear\CSU44099-FinalYearProject\Fishnet\Shark-Species-Identifier\Tensorflow\workspace\images\collectedimages\nurse\nurse.00000000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nurse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>13</ymin>
+			<xmax>515</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

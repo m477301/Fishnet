@@ -1,5 +1,4 @@
 /Shark-Species-Identifier/Dataset
-/Shark-Species-Identifier/Tenserflow/workspace/images/collectedImages
-/Shark-Species-Identifier/Tenserflow/labelimg
-/Shark-Species-Identifier/identificationSystem/Lib
-/Shark-Species-Identifier/identificationSystem/Media
+/Shark-Species-Identifier/Tenserflow
+/Shark-Species-Identifier/identificationSystem
+/Shark-Species-Identifier/.ipynb_checkpoints
